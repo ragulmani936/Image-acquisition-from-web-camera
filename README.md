@@ -121,7 +121,7 @@ cv2.destroyAllWindows()
 
 ### iii) Display the video by resizing the window
 
-![output](https://github.com/ragulmani936/Image-acquisition-from-web-camera/blob/main/img%203.png)
+![output](https://github.com/ragulmani936/Image-acquisition-from-web-camera/blob/main/immg%203.png)
 
 
 ### iv) Rotate and display the video
