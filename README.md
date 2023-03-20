@@ -113,7 +113,7 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-)
+
 
 ### ii) Display the video
 
@@ -127,7 +127,7 @@ cv2.destroyAllWindows()
 ### iv) Rotate and display the video
 
 
-![output](https://github.com/ragulmani936/Image-acquisition-from-web-camera/blob/main/img%203.png)
+![output](https://github.com/ragulmani936/Image-acquisition-from-web-camera/blob/main/immg%203.png)
 
 
 
